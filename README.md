@@ -8,7 +8,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/deivis495/whaticket-installer-riz.git
+git clone https://github.com/deivis495/whaticket-installer.git
 ```
 
 Now, all you gotta do is making it executable:
